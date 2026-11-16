@@ -9,7 +9,7 @@ A minimal Node.js project that prints `Hello, World!`.
 Open a terminal in this folder and run:
 
 ```bash
-npm start
+npm.cmd start
 ```
 
 Expected output:
