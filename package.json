@@ -1,0 +1,9 @@
+{
+  "name": "hello-world-node",
+  "version": "1.0.0",
+  "description": "A minimal Node.js Hello World project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
